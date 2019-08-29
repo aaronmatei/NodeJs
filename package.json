@@ -1,0 +1,17 @@
+{
+  "name": "nodeprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jshint": "^2.10.2",
+    "mongoose": "^5.6.11",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron",
+  "license": "ISC"
+}
